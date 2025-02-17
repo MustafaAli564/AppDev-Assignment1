@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      theme: ThemeData(fontFamily: 'poppins'),
+      theme: ThemeData(fontFamily: 'roboto'),
       home: const MyHome()
     );
   }
